@@ -21,7 +21,6 @@ PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}.html"
 
 PAGE_ORDER_BY = "order"
-
 STATIC_PATHS = ["files"]
 
 # Disable generations some files
